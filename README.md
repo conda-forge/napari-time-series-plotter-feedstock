@@ -1,11 +1,11 @@
-About napari-time-series-plotter
-================================
+About napari-time-series-plotter-feedstock
+==========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-time-series-plotter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ch-n/napari-time_series_plotter
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-time-series-plotter-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Plugin for napari to visualize pixel values over the first dimension (time -> t+3D, t+2D) as graphs.
 
@@ -143,7 +143,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@ch-n](https://github.com/ch-n/)
+* [@Chris-N-K](https://github.com/Chris-N-K/)
 * [@goanpeca](https://github.com/goanpeca/)
 * [@jaimergp](https://github.com/jaimergp/)
 
