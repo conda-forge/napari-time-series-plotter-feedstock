@@ -22,9 +22,10 @@ requirements:
     - python >=3.8
     - setuptools-scm
   run:
-    - napari-matplotlib >=0.2.1
+    - napari-matplotlib <1.0
     - napari-plugin-engine >=0.2.0
     - numpy >=1.21.4
+    - pandas
     - python >=3.8
     - qtpy >=1.11.2
 
